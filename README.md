@@ -36,8 +36,6 @@ No extra libraries are needed—it runs on Python’s built-in `tkinter`.
 
 ---
 
----
-
 ## 📚 Future Improvements
 
 - 🔒 Task persistence via file or database  
